@@ -1,3 +1,6 @@
-var navbar = document.getElementById("navBar");
-var bodyContent = document.getElementById("bodyContent");
-document.body.appendChild(img);
+function navBar() {
+    var navBar = document.getElementById("navBar");
+    console.log(navBar);
+    navBar.innerHTML = "";
+    
+    }
