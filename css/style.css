@@ -1,28 +1,6 @@
-
-
-
-
-
-
-
-
-
-
-
-/* Download */
-
-body {
-
-    background: white;
-    
-
-
+.text-justify{
+    text-align: justify
 }
-
-.titularDescargas {
-
-    color: #1572b4
-
+.h-80{
+    height: 50px;
 }
-
-
